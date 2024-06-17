@@ -57,5 +57,5 @@ function promptUsernameCount() {
     });
 }
 
-// Aufruf der Funktion zur Generierung der Benutzernamen
+
 promptUsernameCount();
